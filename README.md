@@ -12,3 +12,5 @@ Estagios
 Rdc Software para Logística - 6 meses
 Itaú Unibanco
 
+Certificações
+AWS Practitioner

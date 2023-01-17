@@ -1,4 +1,4 @@
-Bem vindo ao meu perfil!
+Boas vindas ao meu perfil!
 
 Wesley Marciel 
 
